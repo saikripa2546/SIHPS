@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:3.12.2024
+## Register Number:24005319
+## Name:sai kripa sk
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,30 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
-
+  Networking: Provide a space for alumni to connect with each other based on graduation
+ year, program, industry, or interest. Event Management: Allow alumni to organize and
+ attend events (reunions, webinars, mentorship sessions, etc.). Job/Internship
+ Opportunities: Provide a job board where alumni can post opportunities for current
+ students and fellow alumni. News and Updates: Keep alumni updated on university
+ news, achievements, and ongoing research. Alumni Donations and Fundraising: Enable
+ alumni to donate to the university and fund initiatives. Profile Management: Alumni
+ should be able to create and update their profiles with their career information,
+ achievements, and personal updates. Mentorship Programs: Facilitate alumni who want
+ to mentor current students or fellow alumni. Community Discussion Forums: Encourage
+ discussions on professional topics, life experiences, or university-related matters. Job
+ Search & Recruitment: Enable alumni to access or post job vacancies, career advice, and
+ recruitment drives
 ## Proposed Solution / Architecture Diagram
-
+![Screenshot_20240210-133645_Nodia App](https://github.com/user-attachments/assets/b552ef41-8fbe-4de0-82a5-1872d9ada69c)
 
 ## Use Cases
+![Screenshot_20240210-133644_Nodia App](https://github.com/user-attachments/assets/92be4736-4686-41a9-8394-8735035e7c3a)
 
 
 ## Technology Stack
-
+HTML5 React Node.js vue.js Django Google Cloud
 
 ## Dependencies
-
+ Mapping Service Costs:Starts at $50/month for 50,000 views Data collection: $25/month
+ for unlimited questions and up to 1,000 responses. Budget:2.9% + 30¢ per successful
+ transaction
